@@ -1,0 +1,14 @@
+Privacy Policy for Aura Edge AI
+
+  Last updated: March 23, 2026
+
+  Aura Edge AI processes all data on your device. No photos, analysis results,
+  or personal data are uploaded to any server.
+
+  Camera permission is used for photo capture within the app. Photos are
+  processed locally and never transmitted.
+
+  Optional analytics (opt-in only) tracks app usage patterns — no photo
+  content or personal data is collected.
+
+
