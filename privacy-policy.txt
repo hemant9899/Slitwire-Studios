@@ -1,14 +1,83 @@
-Privacy Policy for Aura Edge AI
+# Privacy Policy for Aura Edge AI
 
-  Last updated: March 23, 2026
+**Last Updated: March 23, 2026**
 
-  Aura Edge AI processes all data on your device. No photos, analysis results,
-  or personal data are uploaded to any server.
+## Overview
 
-  Camera permission is used for photo capture within the app. Photos are
-  processed locally and never transmitted.
+Aura Edge AI ("the App") is a privacy-first AI photo analysis application. All AI processing happens entirely on your device. No photos, analysis results, or personal data are uploaded to any external server.
 
-  Optional analytics (opt-in only) tracks app usage patterns — no photo
-  content or personal data is collected.
+## Data Collection
 
+### Data We Do NOT Collect
+- Photos or images from your device
+- AI analysis results, descriptions, or labels
+- Search queries or browsing history
+- Chat conversations
+- Location data
+- Contact information
+- Biometric data
 
+### Data Processed On-Device Only
+The following data is processed entirely on your device and never transmitted:
+- **Photo analysis**: ML classification, vision language model analysis, and OCR text extraction all run on-device using your phone's processor
+- **Search index**: Semantic search vectors and keyword indexes are stored locally
+- **Chat history**: All AI chat conversations are stored on your device only
+- **Workflow results**: All workflow execution data remains on your device
+- **Expense records**: Receipt scanning and expense tracking data stays on your device
+
+### Data We May Collect (Opt-In Only)
+If you explicitly opt in via Settings > Privacy:
+- **Anonymous usage analytics**: App feature usage patterns (e.g., which screens are visited, feature frequency). No photo content, no personal identifiers.
+- **Crash reports**: Anonymous crash data to help us fix bugs. No personal data included.
+
+You can disable analytics and crash reporting at any time in Settings > Privacy.
+
+### Subscription Data
+When you subscribe to Aura Edge AI Premium:
+- Apple (iOS) or Google (Android) processes your payment. We do not receive or store your payment information, credit card number, or billing address.
+- We receive a transaction confirmation from Apple/Google to verify your subscription status. This is used solely to unlock premium features.
+
+## Camera and Photo Library Access
+
+- **Camera**: Used to capture photos for AI analysis within the app. Photos are processed locally and never transmitted.
+- **Photo Library**: Used to access your existing photos for AI analysis, search, and organization. Photos are processed locally and never transmitted.
+
+## Data Storage
+
+All data is stored locally on your device using:
+- On-device databases (Isar, ObjectBox) for structured data
+- iOS Keychain / Android Keystore for sensitive tokens
+- SharedPreferences for app settings
+
+No data is stored on external servers or cloud services.
+
+## Data Sharing
+
+We do not share any data with third parties. There are no:
+- Advertising networks or ad tracking
+- Third-party analytics services (unless you opt in)
+- Data brokers or data sales
+- Social media integrations that share your data
+
+## Data Deletion
+
+You can delete all app data at any time:
+- **Settings > Storage > Clear All Data** removes all analysis results, search indexes, chat history, and cached data
+- Uninstalling the app removes all locally stored data
+
+## Children's Privacy
+
+Aura Edge AI is not directed at children under 13. We do not knowingly collect data from children.
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time. Changes will be posted within the app and on our website. Your continued use of the app after changes constitutes acceptance.
+
+## Contact
+
+If you have questions about this Privacy Policy:
+- Email: hemant.babry@gmail.com
+
+## Summary
+
+**Your data stays on your device. We don't collect it, we don't see it, we don't sell it.** Aura Edge AI is built for privacy by design.
