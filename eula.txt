@@ -1,0 +1,67 @@
+# End User License Agreement (EULA) for Solej AI
+
+**Last Updated: April 7, 2026**
+
+This End User License Agreement ("Agreement") is between you and Slitwire Studios ("Developer") and governs your use of Solej AI ("the App").
+
+By downloading or using the App, you agree to this Agreement. If you do not agree, do not use the App.
+
+## 1. License Grant
+
+The Developer grants you a limited, non-exclusive, non-transferable, revocable license to use the App on any Apple-branded or Android device that you own or control, subject to the usage rules set forth in the Apple Media Services Terms and Conditions or Google Play Terms of Service.
+
+## 2. Scope of License
+
+- You may not distribute or make the App available over a network where it could be used by multiple devices at the same time
+- You may not rent, lease, lend, sell, redistribute, or sublicense the App
+- You may not reverse engineer, disassemble, or decompile the App, except to the extent permitted by applicable law
+- You may not copy, modify, or create derivative works of the App
+
+## 3. Subscriptions
+
+The App offers auto-renewable subscription plans:
+- **Monthly**: Billed monthly, auto-renews unless cancelled
+- **Annual**: Billed annually, auto-renews unless cancelled
+- **Free Trial**: 7 days, auto-converts to paid unless cancelled
+
+Payment is charged to your Apple ID or Google account at confirmation of purchase. Subscription renews automatically unless cancelled at least 24 hours before the end of the current period. You can manage and cancel subscriptions in your device Settings > Subscriptions.
+
+## 4. On-Device Processing
+
+All AI processing (classification, analysis, chat, search, OCR, workflows) runs entirely on your device. No photos, analysis results, or personal data are transmitted to external servers. The App requires no internet connection for core functionality.
+
+## 5. AI Content Disclaimer
+
+AI-generated content (labels, descriptions, OCR text, chat responses) may contain inaccuracies. The Developer makes no warranty regarding the accuracy or reliability of AI outputs. Do not rely on AI-generated content for critical decisions without independent verification.
+
+## 6. No Warranty
+
+THE APP IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. THE DEVELOPER DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+## 7. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE DEVELOPER SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF DATA, REVENUE, OR PROFITS. TOTAL LIABILITY SHALL NOT EXCEED THE AMOUNT PAID FOR THE APP IN THE 12 MONTHS PRECEDING THE CLAIM.
+
+## 8. Third-Party Terms
+
+The App uses open-source AI models subject to their respective licenses (Apache 2.0, MIT). These licenses are available within the App under Settings > About > Open Source Licenses.
+
+## 9. Termination
+
+This license is effective until terminated. Your rights under this license will terminate automatically if you fail to comply with any of its terms. Upon termination, you must cease all use of the App and delete all copies.
+
+## 10. Governing Law
+
+This Agreement is governed by the laws of the Province of Ontario, Canada.
+
+## 11. Contact
+
+Questions about this Agreement:
+- Email: appkumar.development@gmail.com
+
+## 12. Apple-Specific Terms (iOS)
+
+- This Agreement is between you and the Developer, not Apple Inc.
+- Apple has no obligation to provide maintenance or support for the App
+- Apple is not responsible for any claims relating to the App
+- Apple is a third-party beneficiary of this Agreement
