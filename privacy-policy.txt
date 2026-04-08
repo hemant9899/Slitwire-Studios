@@ -1,10 +1,10 @@
-# Privacy Policy for Aura Edge AI
+# Privacy Policy for Solej AI
 
 **Last Updated: March 23, 2026**
 
 ## Overview
 
-Aura Edge AI ("the App") is a privacy-first AI photo analysis application. All AI processing happens entirely on your device. No photos, analysis results, or personal data are uploaded to any external server.
+Solej AI ("the App") is a privacy-first AI photo analysis application. All AI processing happens entirely on your device. No photos, analysis results, or personal data are uploaded to any external server.
 
 ## Data Collection
 
@@ -33,7 +33,7 @@ If you explicitly opt in via Settings > Privacy:
 You can disable analytics and crash reporting at any time in Settings > Privacy.
 
 ### Subscription Data
-When you subscribe to Aura Edge AI Premium:
+When you subscribe to Solej AI Premium:
 - Apple (iOS) or Google (Android) processes your payment. We do not receive or store your payment information, credit card number, or billing address.
 - We receive a transaction confirmation from Apple/Google to verify your subscription status. This is used solely to unlock premium features.
 
@@ -67,7 +67,7 @@ You can delete all app data at any time:
 
 ## Children's Privacy
 
-Aura Edge AI is not directed at children under 13. We do not knowingly collect data from children.
+Solej AI is not directed at children under 13. We do not knowingly collect data from children.
 
 ## Changes to This Policy
 
@@ -80,4 +80,4 @@ If you have questions about this Privacy Policy:
 
 ## Summary
 
-**Your data stays on your device. We don't collect it, we don't see it, we don't sell it.** Aura Edge AI is built for privacy by design.
+**Your data stays on your device. We don't collect it, we don't see it, we don't sell it.** Solej AI is built for privacy by design.
