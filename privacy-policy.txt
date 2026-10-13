@@ -1,69 +1,50 @@
 # Privacy Policy for Solej AI
 
-**Last Updated: March 23, 2026**
+**Last Updated: October 13, 2026**
 
 ## Overview
 
-Solej AI ("the App") is a privacy-first AI photo analysis application. All AI processing happens entirely on your device. No photos, analysis results, or personal data are uploaded to any external server.
+Solej AI ("the App") finds stories in your photo library and lets you search your photos. All photo processing happens on your device. Your photos, search text and results are never uploaded to any server.
 
-## Data Collection
+## What Never Leaves Your Phone
 
-### Data We Do NOT Collect
-- Photos or images from your device
-- AI analysis results, descriptions, or labels
-- Search queries or browsing history
-- Chat conversations
-- Location data
-- Contact information
-- Biometric data
+- Your photos and videos
+- What the App finds in them: stories, labels, recognised text and search indexes
+- Your searches
+- Your location, contacts or any other personal data
 
-### Data Processed On-Device Only
-The following data is processed entirely on your device and never transmitted:
-- **Photo analysis**: ML classification, vision language model analysis, and OCR text extraction all run on-device using your phone's processor
-- **Search index**: Semantic search vectors and keyword indexes are stored locally
-- **Chat history**: All AI chat conversations are stored on your device only
-- **Workflow results**: All workflow execution data remains on your device
-- **Expense records**: Receipt scanning and expense tracking data stays on your device
+## What Does Leave Your Phone
 
-### Data We May Collect (Opt-In Only)
-If you explicitly opt in via Settings > Privacy:
-- **Anonymous usage analytics**: App feature usage patterns (e.g., which screens are visited, feature frequency). No photo content, no personal identifiers.
-- **Crash reports**: Anonymous crash data to help us fix bugs. No personal data included.
+### Model downloads
+After install, the App downloads its on-device models once from the model host (Hugging Face). Like any download, the host sees a standard web request from your device (for example its IP address). No photos or personal data are sent.
 
-You can disable analytics and crash reporting at any time in Settings > Privacy.
+### Crash reports (on by default, you can turn them off)
+If the App crashes or hits an error, it sends a crash report to Google Firebase Crashlytics so we can fix the problem. A report contains the error type, a random install identifier and device state (device model, OS version, free memory). It never contains photos, names, searches or text from your photos. Turn crash reports off any time in Settings > Privacy.
 
-### Subscription Data
-When you subscribe to Solej AI Premium:
-- Apple (iOS) or Google (Android) processes your payment. We do not receive or store your payment information, credit card number, or billing address.
-- We receive a transaction confirmation from Apple/Google to verify your subscription status. This is used solely to unlock premium features.
+### Text recognition on Android
+On Android, the on-device text-recognition component (Google ML Kit) sends usage statistics to Google, such as performance and error counts. It never sends photos or the text it recognises.
+
+### Subscriptions
+Apple (iOS) or Google (Android) processes your payment. We never receive your payment details, card number or billing address. The App receives a confirmation from Apple or Google to unlock Premium on your device.
 
 ## Camera and Photo Library Access
 
-- **Camera**: Used to capture photos for AI analysis within the app. Photos are processed locally and never transmitted.
-- **Photo Library**: Used to access your existing photos for AI analysis, search, and organization. Photos are processed locally and never transmitted.
+- **Photo Library**: used to find stories in your photos and to search them. Limited Access works. Photos are processed on your device and never transmitted.
+- **Camera**: used only when you choose to take a photo. The photo is processed on your device and never transmitted.
 
 ## Data Storage
 
-All data is stored locally on your device using:
-- On-device databases (Isar, ObjectBox) for structured data
-- iOS Keychain / Android Keystore for sensitive tokens
-- SharedPreferences for app settings
-
-No data is stored on external servers or cloud services.
+Everything the App creates (stories, search indexes, settings) is stored on your device only. No copy is kept on any server.
 
 ## Data Sharing
 
-We do not share any data with third parties. There are no:
-- Advertising networks or ad tracking
-- Third-party analytics services (unless you opt in)
-- Data brokers or data sales
-- Social media integrations that share your data
+We do not sell or share your data. There is no advertising, ad tracking, analytics service or data broker in the App. The only data that goes to a third party is described above: crash reports (Google Firebase Crashlytics), Android text-recognition usage statistics (Google), and payments (Apple or Google).
 
 ## Data Deletion
 
-You can delete all app data at any time:
-- **Settings > Storage > Clear All Data** removes all analysis results, search indexes, chat history, and cached data
-- Uninstalling the app removes all locally stored data
+- Settings > Storage > Clear caches removes cached files.
+- Uninstalling the App removes all data it stored on your device.
+- Crash reports are kept by Firebase Crashlytics for up to 90 days. To ask us to delete them sooner, email us with the approximate date of the crash.
 
 ## Children's Privacy
 
@@ -71,7 +52,7 @@ Solej AI is not directed at children under 13. We do not knowingly collect data 
 
 ## Changes to This Policy
 
-We may update this Privacy Policy from time to time. Changes will be posted within the app and on our website. Your continued use of the app after changes constitutes acceptance.
+We may update this Privacy Policy from time to time. Changes will be posted at this address with a new "Last Updated" date.
 
 ## Contact
 
@@ -80,4 +61,4 @@ If you have questions about this Privacy Policy:
 
 ## Summary
 
-**Your data stays on your device. We don't collect it, we don't see it, we don't sell it.** Solej AI is built for privacy by design.
+**Your photos never leave your phone.** The only things that do are crash reports (which you can turn off), the one-time model download, Android text-recognition usage statistics, and the purchase confirmation from Apple or Google.
